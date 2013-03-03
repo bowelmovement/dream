@@ -1,0 +1,5 @@
+<b>>> Usami Ayaka - Loves and Relationships</b><br><br>
+<div align="justify">
+<img src="http://dream.shounen-ai.org/info/images/ayakayuki.jpg" align="left" border=1>Ayaka was Yuki's fiancee, but not someone Yuki loved even though she loved him. The marriage was more or less pre-arranged, thus, she could not keep Yuki. She tried very hard to get Yuki to like her, even pity her if needed. But later she saw that Yuki could not possibly be happy if married to her, and she reluctantly let go.<br><br>
+<img src="http://dream.shounen-ai.org/info/images/ayakahiro.jpg" align="right" border=1>Hiro probably began falling for Ayaka the moment he laid eyes on her, although he might not have known it. Ayaka didn't regard him in any special way because she loved Yuki at the time. But later, when she gave up on Yuki, she knew that Hiro was in love with her. When Hiro decided to quit Bad Luck, she offered to date him if he would return to Bad Luck and sell 1 million records. This was done and they started dating.^-^
+<br><br>

@@ -1,0 +1,197 @@
+<b>Purchase Information</b><br><br>
+There are plenty of official Gravitation products as well as quite a few places to purchase Gravitation merchandise. I've constucted a product list below, as well as a few sites that would have various Gravitation products and merchandise. Some of them are just general anime stores, so browse through and search to find the Gravitation items.
+
+<table border=0 cellspacing=5 cellpadding=0>
+<td bgcolor="#ffffff" width=100% align=center><b>Series on VHS</b></td></table>
+<table border=0 cellspacing=5 cellpadding=0>
+<td><div align=justify>Gravitation is currently available on VHS. There are 4 VHS tapes containing all 13 episodes of the series. The language is original Japanese with English subtitles. <br><br>Series Volume 1: episodes 01-02<br>
+Series Volume 2: episodes 03-05<br>
+Series Volume 3: episodes 06-09<br>
+Series Volume 4: episodes 10-13</td></tr></table>
+
+<table border=0 cellspacing=5 cellpadding=0>
+<td bgcolor="#ffffff" width=100% align=center><b>Series on DVD</b></td></table>
+<table border=0 cellspacing=5 cellpadding=0>
+<td><div align=justify>Gravitation is also currently available on DVD. There are 4 DVD Discs containing all 13 episodes of the series. The language is original Japanese with English subtitles.<br><br>Series Volume 1: episodes 01-02<br>
+Series Volume 2: episodes 03-05<br>
+Series Volume 3: episodes 06-09<br>
+Series Volume 4: episodes 10-13</td></tr></table>
+
+<table border=0 cellspacing=5 cellpadding=0>
+<td bgcolor="#ffffff" width=100% align=center><b>OAVs</b></td></table>
+<table border=0 cellspacing=5 cellpadding=0>
+<td><div align=justify>There are a total of 2 Gravitation OAVs, and they are available in VHS and DVD format. There are 2 VHS tapes and 1 DVD for the 2 OAVs. The language is original Japanese with English subtitles.</td></tr></table>
+
+<table border=0 cellspacing=5 cellpadding=0>
+<td bgcolor="#ffffff" width=100% align=center><b>Soundtracks/CDs</b></td></table>
+<table border=0 cellspacing=5 cellpadding=0>
+<td><div align=justify>There are currently a total of 2 Soundtracks, 2 vocal collections, 3 Sound Stories and 2 audio CDs. They're all listed below. <br><br>
+<b>Gravitation TV - Track OST</b>
+<ol>
+<li>Super Drive - Silent Beat Mix</li>
+<li>Super Drive</li>
+<li>Super Drive - Pure Silence Mix</li>
+<li>Super Drive - Zero Basement Mix</li>
+<li>The First Dimension</li>
+<li>Glaring Dream - Secret Dream Air Mix</li>
+<li>Glaring Dream - A Light In The Black Mix</li>
+<li>Glaring Dream</li>
+<li>Missing Piece</li>
+<li>Melting Noise</li>
+<li>Liquid Brain</li>
+<li>Power Cave</li>
+<li>Sleepless Beauty - Sacred Beauty Air Mix</li>
+<li>Hypnotic Distortion</li>
+<li>Sleepless Beauty - K.Ito + DK</li>
+<li>Sleepless Beauty - Snake Bite Mix</li>
+<li>The Rage Beat - Zoom Mix</li>
+<li>The Rage Beat</li>
+<li>The Rage Beat - The Last Element Mix </li>
+</ol>
+</td></tr></table>
+
+<table border=0 cellspacing=5 cellpadding=0>
+<td align=center>------------------------------------------------------------------------------</td></table>
+<table border=0 cellspacing=5 cellpadding=0>
+<td><div align=justify><b>Gravitation Original Soundtrack</b><ol><li>Gravitation Theme 
+<li>"Tokyo Bay Music Fes Cm 
+<li>"Slump" Scene #2 
+<li>"Encounter" Scene #3 
+<li>"Body Language" Scene #4 
+<li>"Perushana" Scene #6 
+<li>"Recollect" Scene #8 
+<li>"Yuki's Theme" Scene #11 
+<li>"Rain" Scene #14 
+<li>"Idea" Scene #18 
+<li>"How To Be" Scene #19 
+<li>"Eating" Scene #20 
+<li>"Spell" Scene #22 
+<li>"Shuichi's Theme" Scene #24 
+<li>"A Worry" Scene #26 
+<li>Blind Game Again 
+<li>Smashing Blue 
+<li>In The Moonlight 
+<li>Shining Collection / Iceman </td></tr></table>
+
+<table border=0 cellspacing=5 cellpadding=0>
+<td align=center>------------------------------------------------------------------------------</td></table>
+<table border=0 cellspacing=5 cellpadding=0>
+<td><div align=justify><b>Gravitation Vocal Collection</b><ol><li>Blind Game Again
+<li>Smashing Blue
+<li>In the Moonlight
+<li>Shining Collection
+<li>Super Drive
+<li>Glaring Dream
+<li>Sleepless Beauty
+<li>The Rage Beat
+<li>Break Through
+<li>Welcome to My Romance
+<li>No Style
+<li>Spicy Marmalade
+<li>Yuutsuna Seven Days
+<li>Anti-Nostalgic
+<li>Sweet Sweet Samba
+<li>Love Stuff </td></tr></table>
+
+<table border=0 cellspacing=5 cellpadding=0>
+<td align=center>------------------------------------------------------------------------------</td></table>
+<table border=0 cellspacing=5 cellpadding=0>
+<td><div align=justify><b>Gravitation - Shuichi Shindo Vocal Album</b><ol><li>Spicy Marmalade
+<li>Blind Game Again
+<li>In the Moonlight
+<li>Yuutsuna Seven Days
+<li>Shakunetsu Blade
+<li>Jurejurenaru Kisetsu
+<li>???
+<li>Anti-Nostalgic
+<li>Kounetsu Blood
+<li>Jounetsu Ballad
+<li>Far east of Eden
+<li>No! Virtual
+<li>Easy Action
+<li>Masking Pleasure Around
+<li>???
+<li>Glaring Dream
+<li>Rockin' Station
+<li>The Rage Beat</td></tr></table>
+
+<table border=0 cellspacing=5 cellpadding=0>
+<td align=center>------------------------------------------------------------------------------</td></table>
+<table border=0 cellspacing=5 cellpadding=0>
+<td><div align=justify><b>Gravitation Sound Story</b><ol><li>Prologue
+<li>Break Through
+<li>Drunk and Drunk
+<li>Sweet Imagination
+<li>Dangerous Lovers-1
+<li>Imitative "R"
+<li>Dangerous Lovers-2
+<li>Unfortunate
+<li>Double Role
+<li>Epilogue</td></tr></table>
+
+<table border=0 cellspacing=5 cellpadding=0>
+<td align=center>------------------------------------------------------------------------------</td></table>
+<table border=0 cellspacing=5 cellpadding=0>
+<td><div align=justify><b>Gravitation Sound Story II</b><ol><li>Title Call
+<li>Prologue
+<li>Heaven And Hell
+<li>Burnout Syndrome
+<li>With - To Yuki
+<li>Wish - To Ayaka
+<li>Shuichi vs Ryuichi
+<li>Each Situation
+<li>To Be Or Not To Be
+<li>Previous Night
+<li>And.... New Year's Eve
+<li>Epilogue - Passionate Paradise
+<li>Bird</td></tr></table>
+
+<table border=0 cellspacing=5 cellpadding=0>
+<td align=center>------------------------------------------------------------------------------</td></table>
+<table border=0 cellspacing=5 cellpadding=0>
+<td><div align=justify><b>Gravitation Sound Story III</b><ol><li>Prologue
+<li>Special Offer
+<li>Love Dream-1
+<li>Goes together to Kyoto
+<li>Love Dream-2
+<li>Unreasonable Demand
+<li>3 Matches
+<li>Patience Convention
+<li>KI-MO-DA-ME-SHI
+<li>Who is a winner?
+<li>Big Wednesday
+<li>Adrift in the Pacific
+<li>The conclusion of Eiri
+<li>Epilogue
+<li>Predilection</td></tr></table>
+
+<table border=0 cellspacing=5 cellpadding=0>
+<td bgcolor="#ffffff" width=100% align=center><b>Audio CDs</b></td></table>
+<table border=0 cellspacing=5 cellpadding=0>
+<td><div align=justify>There are presently 2 Audio CDs, each retelling the manga featuring voices of the anime Gravi cast.</td></table>
+
+<table border=0 cellspacing=5 cellpadding=0>
+<td bgcolor="#ffffff" width=100% align=center><b>Manga</b></td></table>
+<table border=0 cellspacing=5 cellpadding=0>
+<td><div align=justify>The Gravitation manga is currently 12 volumes long, with each volume containing about 5 tracks and totaling 206 pages. Presently Maki Murakami has discontinued the manga indefinitely.</td></table>
+
+<table border=0 cellspacing=5 cellpadding=0>
+<td bgcolor="#ffffff" width=100% align=center><b>Artbooks</b></td></table>
+<table border=0 cellspacing=5 cellpadding=0>
+<td><div align=justify>There are currently 3 artbooks, the TV Animation Artbook, the Gravitation Complete Fanbook, and the Gravitation Complete Fanbook 2. The TV Animation artbook is the only artbook that contains anime images. Each artbook contains about 85-87 pages. </td></table>
+
+<table border=0 cellspacing=5 cellpadding=0>
+<td bgcolor="#ffffff" width=100% align=center><b>Remixes/Doujinshi</b></td></table>
+<table border=0 cellspacing=5 cellpadding=0>
+<td><div align=justify>There are currently 11 (there are 12 images because there's a volume 8.5) Remixes/Doujinshi created by Crocodile-Ave, co-dependent of the original creator: Maki Murakami. Ms. Murakami is the current artist of the remixes. These contain extremely graphic scenarios, including boy x boy (multiple pairings, some not seen in series), graphic incest, and group sexuality. The remixes are specifically targetted at a NC-17+ audience.</td></table>
+
+<table border=0 cellspacing=5 cellpadding=0>
+<td bgcolor="#ffffff" width=100% align=center><b>Stores</b></td></table>
+<table border=0 cellspacing=5 cellpadding=0>
+<td><div align=justify><b>MANGA STORES</b><br><br><a href="http://www.buy.com" target="_blank">Buy.com</a><br>- Go to Buy.com for the cheapest <b>licensed (English)</b> manga. Right now you can only pre-order up to Volume 5. The manga's currently being licensed by TokyoPop. <br><br><a href="http://www.kinokuniya.co.jp/english/index.html" target="_blank">Kinokuniya</a><br>- This is a store carrying manga, books, magazines and such. If you can find one near your residence, I suggest going there instead of ordering online. ^^<br><br><a href="http://www.planetanime.com/" target="_blank">Planet Anime</a><br>- Also a store, with a rather large collection of merchandise, manga, books, music, etc.<br><br><a href="http://www.japan-manga.jp/" target="_blank">Japan Manga</a><br>- This place has some of the rarest selections in stock. O_O You can also find doujinshi, CDs, VHS, and merchandise here. But there are quite a few hentai manga too...<br><br>
+<a href="http://www.jpqueen.com" target="_blank">JPQueen</a><br>- I love this place. It's got the cheapest of of the cheap manga, artbooks, doujinshi and CDs for a decent quality, AND they have all the rare stuff, all imported from Japan. What's not to like? XD<br><br><a href="http://www.aestheticism.com/cybershoppe/index.htm" target="_blank">Aestheticism Cybershoppe</a><br>- Lots of manga, doujinshi, magazines, and such. They have a pretty large selection and at relatively reasonably prices too.
+<br><br><b>BOOK STORES</b><br><br><a href="http://www.sasugabooks.com/" target="_blank">Sasuga Books</a><br>- Very good selection of artbooks, magazines, DVDs, videos and more. You can also find manga here, great service too. :) Everything's imported directly from Japan, and you can place special orders.
+<br><br>
+<b>DVDs/CDs/VHS/OAVs STORES</b><br><br><a href="http://www.cdjapan.co.jp/" target="_blank">CD Japan</a><br>Very nice place with a ton of different CDs, VHS, and DVDs of all different kinds of anime, J-pop, J-rock, movies, and more. <br><br><a href="http://www.chibitokyo.com/" target="_blank">ChibiTokyo</a><br>Most of the Gravitation CDs can be found here, for an ok price. No sound stories or anything else though. Still, I'd go just for the soundtracks. 
+<br><br><a href="http://www.animetoxic.com" target="_blank">AnimeToxic</a><br>Again, most of the CDs can be found here, including the sound stories, for a pretty cheap price. They also have DVDs.<br><br><a href="http://www.animaxis.com" target="_blank">Animaxis</a><br>The <b>only</b> store I know of that sells the Gravitation OAVs. It's not cheap -.- but if you're desperately looking for OAVs, this site has them in DVD format.<br><br>
+<b>MERCHANDISE STORES</b><br><br><a href="http://www.planetanime.com/" target="_blank">Planet Anime</a><br>- A nice store with a large collection of merchandise, manga, books, etc.<br><br><a href="http://www.usanime.net/" target="_blank">U.S. Anime</a><br>- Great variety of merchandise, phone cards, clearfiles, doujinshi, etc.<br><br><center>Also check out <a href="http://www.ebay.com" target="new">EBay.com</a> for auctioned merchandise. <br><br>
