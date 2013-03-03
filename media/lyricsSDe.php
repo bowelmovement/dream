@@ -1,0 +1,59 @@
+<html>
+<head>
+<title>entertainmentCENTRE</title>
+<STYLE TYPE="text/css">
+a:link {text-decoration: none; font-weight: bold; color: white;}
+a:visited {text-decoration: none; font-weight: bold; color:  white;}
+a:hover {text-decoration: line-through; color:  white; cursor: help}
+a:active {text-decoration: none; color:  white;}
+<!--
+BODY{font-family:verdana;}
+body{scrollbar-face-color: #000000; 
+			scrollbar-highlight-color: #000000; 
+			scrollbar-3dlight-color: #000000; 
+			scrollbar-shadow-color: #E5E9F7; 
+			scrollbar-darkshadow-color: #000000;
+			scrollbar-track-color: #000000; 
+			scrollbar-arrow-color: #E5E9F7}
+-->
+</style>
+</head>
+<body topmargin=0 leftmargin=0 bgcolor=black background="media_2x2.jpg" bgproperties=fixed>
+<div id="textid" style="position:absolute; left:0px; top:0px; width:230px; line-height:18px; z-index:1; filter: blur(add = 1, direction = 150, strength = 1)">
+<div align=justify>
+<font face=verdana size=1 color=white>
+<b>>> Lyrics: Super Drive (English)</b><br><br>
+<font face=arial size=1 color=white>
+By chance, we met unconciously<br>
+Drawing gentleness together, will this hide-and-seek ever end? <br>
+I see. <br>
+<br>
+No, wanna sell your soul, a stylish class of yellow<br>
+No, forget smile again, I just want to dance forever <br>
+<br>
+The beginning will start tomorrow; as we crossed over<br>
+The west winds are starting to lift; have I reached my voice?<br>
+I see.  <br>
+<br>
+No, wanna sell you soul, in this world of fairy tales<br>
+No, forget smile again, I will just sleep throughout the painful ordeals <br>
+<br>
+Hey, chase after it, chase after it, a white breeze<br>
+Hey, it becomes love, it becomes love, I want to spread my wings <br>
+<br>
+Hey, all the good things, all the bad things, add them all together<br>
+Divide by two, and live well, I want to exceed time. <br>
+<br>
+On a large field, a rope appeared, and I gathered everything<br>
+A rainbow appeared out the sky, a red thread connected it<br>
+I see.<br><br>
+No, wanna sell your soul, the rain turned the other way long ago<br>
+No, forget smile again, we just laughed through all the pains <br>
+<br>
+Hey, chase after it, chase after it, a white breeze<br>
+Hey, it becomes love, it becomes love, I want to spread my wings <br>
+<br>
+Hey, all the good things, all the bad things, add them all together<br>
+Divide by two, and live well, I want to exceed time. <br>
+<br>
+I want to exceed time </font><br><br><center><a href="#" onclick="parent.history.back()" onmouseover="window.status=' >> Entertainment Centre <<'; return true;" onmouseout="window.status=''; return true;">Back</a> || <a href="/index.php" target="_blank">X-Clear</a></center>

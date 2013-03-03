@@ -1,0 +1,170 @@
+<html>
+<head>
+<title>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NA NO DA!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;entertainmentCENTRE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</title>
+<STYLE TYPE="text/css">
+a:link {text-decoration: none; font-weight: bold; color: white;}
+a:visited {text-decoration: none; font-weight: bold; color:  white;}
+a:hover {text-decoration: line-through; color:  white; cursor: help}
+a:active {text-decoration: none; color:  white;}
+</style>
+<script langauge="JavaScript1.1">
+<!--
+//Written by the_webmaster007@angelfire.com
+//Version 2.1
+S="" /*image directory*/
+
+Player=new Image
+CPU=new Image
+CPU.src=S+"kuma.jpg"
+Player.src=S+"k_san.jpg"
+L="Kumagoro"
+SM="K"
+Blank="whitebg.gif"
+//-->
+</script>
+</head>
+<body topmargin=0 leftmargin=0 bgcolor=black background=media_2x2.jpg bgproperties=fixed>
+<div id="textid" style="width:240px; line-height:18px; z-index:1;">
+<div align=justify>
+<center>
+<table border="1"><tr><td align=center>Tic</td><td align=center>Tac</td><td align=center>Toe</td></tr><tr>
+<td><a href="javascript:Play(1)"><img name="a1"src="whitebg.gif"width="55"height="55" border=1></a></td>
+<td><a href="javascript:Play(2)"><img name="a2"src="whitebg.gif"width="55"height="55" border=1></a></td>
+<td><a href="javascript:Play(3)"><img name="a3"src="whitebg.gif"width="55"height="55" border=1></a></td>
+</tr><tr>
+<td><a href="javascript:Play(4)"><img name="b1"src="whitebg.gif"width="55"height="55" border=1></a></td>
+<td><a href="javascript:Play(5)"><img name="b2"src="whitebg.gif"width="55"height="55" border=1></a></td>
+<td><a href="javascript:Play(6)"><img name="b3"src="whitebg.gif"width="55"height="55" border=1></a></td>
+</tr><tr>
+<td><a href="javascript:Play(7)"><img name="c1"src="whitebg.gif"width="55"height="55" border=1></a></td>
+<td><a href="javascript:Play(8)"><img name="c2"src="whitebg.gif"width="55"height="55" border=1></a></td>
+<td><a href="javascript:Play(9)"><img name="c3"src="whitebg.gif"width="55"height="55" border=1></a></td>
+</tr></table>
+<script language="JavaScript1.1">
+<!--
+d=document //Alias
+Last=""
+Chosen=new Array()
+for(i=1;i<=9;i++){Chosen[i]=false}
+Moves=0
+Winner="Nobody"
+function Play(square){
+if(square!=Last&&Chosen[square]!=true&&Moves<9){
+if(square==1){d.a1.src=Player.src}
+if(square==2){d.a2.src=Player.src}
+if(square==3){d.a3.src=Player.src}
+if(square==4){d.b1.src=Player.src}
+if(square==5){d.b2.src=Player.src}
+if(square==6){d.b3.src=Player.src}
+if(square==7){d.c1.src=Player.src}
+if(square==8){d.c2.src=Player.src}
+if(square==9){d.c3.src=Player.src}
+Chosen[square]=true
+Last=square
+Moves++
+Win()
+CPUturn()}}
+function CPUturn(){
+if(Moves<9){
+if(d.a1.src==CPU.src&&d.a2.src==CPU.src&&Chosen[3]!=true){CPUchoice=3}
+else if(d.a1.src==CPU.src&&d.a3.src==CPU.src&&Chosen[2]!=true){CPUchoice=2}
+else if(d.a2.src==CPU.src&&d.a3.src==CPU.src&&Chosen[1]!=true){CPUchoice=1}
+else if(d.b1.src==CPU.src&&d.b2.src==CPU.src&&Chosen[6]!=true){CPUchoice=6}
+else if(d.b1.src==CPU.src&&d.b3.src==CPU.src&&Chosen[5]!=true){CPUchoice=5}
+else if(d.b2.src==CPU.src&&d.b3.src==CPU.src&&Chosen[4]!=true){CPUchoice=4}
+else if(d.c1.src==CPU.src&&d.c2.src==CPU.src&&Chosen[9]!=true){CPUchoice=9}
+else if(d.c1.src==CPU.src&&d.c3.src==CPU.src&&Chosen[8]!=true){CPUchoice=8}
+else if(d.c2.src==CPU.src&&d.c3.src==CPU.src&&Chosen[7]!=true){CPUchoice=7}
+else if(d.a1.src==CPU.src&&d.b1.src==CPU.src&&Chosen[7]!=true){CPUchoice=7}
+else if(d.a1.src==CPU.src&&d.c1.src==CPU.src&&Chosen[4]!=true){CPUchoice=4}
+else if(d.b1.src==CPU.src&&d.c1.src==CPU.src&&Chosen[1]!=true){CPUchoice=1}
+else if(d.a2.src==CPU.src&&d.b2.src==CPU.src&&Chosen[8]!=true){CPUchoice=8}
+else if(d.a2.src==CPU.src&&d.c2.src==CPU.src&&Chosen[5]!=true){CPUchoice=5}
+else if(d.b2.src==CPU.src&&d.c2.src==CPU.src&&Chosen[2]!=true){CPUchoice=2}
+else if(d.a3.src==CPU.src&&d.b3.src==CPU.src&&Chosen[9]!=true){CPUchoice=9}
+else if(d.a3.src==CPU.src&&d.c3.src==CPU.src&&Chosen[6]!=true){CPUchoice=6}
+else if(d.b3.src==CPU.src&&d.c3.src==CPU.src&&Chosen[3]!=true){CPUchoice=3}
+else if(d.a1.src==CPU.src&&d.b2.src==CPU.src&&Chosen[9]!=true){CPUchoice=9}
+else if(d.a1.src==CPU.src&&d.c3.src==CPU.src&&Chosen[5]!=true){CPUchoice=5}
+else if(d.b2.src==CPU.src&&d.c3.src==CPU.src&&Chosen[1]!=true){CPUchoice=1}
+else if(d.a3.src==CPU.src&&d.b2.src==CPU.src&&Chosen[7]!=true){CPUchoice=7}
+else if(d.a3.src==CPU.src&&d.c1.src==CPU.src&&Chosen[5]!=true){CPUchoice=5}
+else if(d.b2.src==CPU.src&&d.c1.src==CPU.src&&Chosen[3]!=true){CPUchoice=3}
+else if(d.a1.src==Player.src&&d.a2.src==Player.src&&Chosen[3]!=true){CPUchoice=3}
+else if(d.a1.src==Player.src&&d.a3.src==Player.src&&Chosen[2]!=true){CPUchoice=2}
+else if(d.a2.src==Player.src&&d.a3.src==Player.src&&Chosen[1]!=true){CPUchoice=1}
+else if(d.b1.src==Player.src&&d.b2.src==Player.src&&Chosen[6]!=true){CPUchoice=6}
+else if(d.b1.src==Player.src&&d.b3.src==Player.src&&Chosen[5]!=true){CPUchoice=5}
+else if(d.b2.src==Player.src&&d.b3.src==Player.src&&Chosen[4]!=true){CPUchoice=4}
+else if(d.c1.src==Player.src&&d.c2.src==Player.src&&Chosen[9]!=true){CPUchoice=9}
+else if(d.c1.src==Player.src&&d.c3.src==Player.src&&Chosen[8]!=true){CPUchoice=8}
+else if(d.c2.src==Player.src&&d.c3.src==Player.src&&Chosen[7]!=true){CPUchoice=7}
+else if(d.a1.src==Player.src&&d.b1.src==Player.src&&Chosen[7]!=true){CPUchoice=7}
+else if(d.a1.src==Player.src&&d.c1.src==Player.src&&Chosen[4]!=true){CPUchoice=4}
+else if(d.b1.src==Player.src&&d.c1.src==Player.src&&Chosen[1]!=true){CPUchoice=1}
+else if(d.a2.src==Player.src&&d.b2.src==Player.src&&Chosen[8]!=true){CPUchoice=8}
+else if(d.a2.src==Player.src&&d.c2.src==Player.src&&Chosen[5]!=true){CPUchoice=5}
+else if(d.b2.src==Player.src&&d.c2.src==Player.src&&Chosen[2]!=true){CPUchoice=2}
+else if(d.a3.src==Player.src&&d.b3.src==Player.src&&Chosen[9]!=true){CPUchoice=9}
+else if(d.a3.src==Player.src&&d.c3.src==Player.src&&Chosen[6]!=true){CPUchoice=6}
+else if(d.b3.src==Player.src&&d.c3.src==Player.src&&Chosen[3]!=true){CPUchoice=3}
+else if(d.a1.src==Player.src&&d.b2.src==Player.src&&Chosen[9]!=true){CPUchoice=9}
+else if(d.a1.src==Player.src&&d.c3.src==Player.src&&Chosen[5]!=true){CPUchoice=5}
+else if(d.b2.src==Player.src&&d.c3.src==Player.src&&Chosen[1]!=true){CPUchoice=1}
+else if(d.a3.src==Player.src&&d.b2.src==Player.src&&Chosen[7]!=true){CPUchoice=7}
+else if(d.a3.src==Player.src&&d.c1.src==Player.src&&Chosen[5]!=true){CPUchoice=5}
+else if(d.b2.src==Player.src&&d.c1.src==Player.src&&Chosen[3]!=true){CPUchoice=3}
+else{CPUchoice=Math.floor(Math.random()*9+1)
+while(Chosen[CPUchoice]==true||CPUchoice==0){
+CPUchoice=Math.floor(Math.random()*9+1)
+}}
+if(CPUchoice==1){d.a1.src=CPU.src}
+if(CPUchoice==2){d.a2.src=CPU.src}
+if(CPUchoice==3){d.a3.src=CPU.src}
+if(CPUchoice==4){d.b1.src=CPU.src}
+if(CPUchoice==5){d.b2.src=CPU.src}
+if(CPUchoice==6){d.b3.src=CPU.src}
+if(CPUchoice==7){d.c1.src=CPU.src}
+if(CPUchoice==8){d.c2.src=CPU.src}
+if(CPUchoice==9){d.c3.src=CPU.src}
+Chosen[CPUchoice]=true
+Moves++
+Win()
+}if(Moves>=9){alert("Game Over! "+Winner+" wins!^-^")
+LunaSpeak=Math.floor(Math.random()*3)
+if(LunaSpeak==0&&Winner==L){
+alert("Keep your temper down K, just don't pull out your guns <.< You can win this!")}
+for(i=0;i<document.images.length;i++){
+if(d.images[i].src==CPU.src||d.images[i].src==Player.src){
+d.images[i].src=Blank}}
+Moves=0
+Winner="Nobody"
+for(i=0;i<=9;i++){Chosen[i]=false}
+CPUturn()
+}
+
+}
+function Win(){
+if(d.a1.src==CPU.src&&d.a2.src==CPU.src&&d.a3.src==CPU.src){Winner=L;Moves=9}
+if(d.b1.src==CPU.src&&d.b2.src==CPU.src&&d.b3.src==CPU.src){Winner=L;Moves=9}
+if(d.c1.src==CPU.src&&d.c2.src==CPU.src&&d.c3.src==CPU.src){Winner=L;Moves=9}
+if(d.a1.src==CPU.src&&d.b1.src==CPU.src&&d.c1.src==CPU.src){Winner=L;Moves=9}
+if(d.a2.src==CPU.src&&d.b2.src==CPU.src&&d.c2.src==CPU.src){Winner=L;Moves=9}
+if(d.a3.src==CPU.src&&d.b3.src==CPU.src&&d.c3.src==CPU.src){Winner=L;Moves=9}
+if(d.a1.src==CPU.src&&d.b2.src==CPU.src&&d.c3.src==CPU.src){Winner=L;Moves=9}
+if(d.a3.src==CPU.src&&d.b2.src==CPU.src&&d.c1.src==CPU.src){Winner=L;Moves=9}
+if(Moves<9){
+if(d.a1.src==Player.src&&d.a2.src==Player.src&&d.a3.src==Player.src){Winner=SM;Moves=9}
+if(d.b1.src==Player.src&&d.b2.src==Player.src&&d.b3.src==Player.src){Winner=SM;Moves=9}
+if(d.c1.src==Player.src&&d.c2.src==Player.crc&&d.c3.src==Player.src){Winner=SM;Moves=9}
+if(d.a1.src==Player.src&&d.b1.src==Player.src&&d.c1.src==Player.src){Winner=SM;Moves=9}
+if(d.a2.src==Player.src&&d.b2.src==Player.src&&d.c2.src==Player.src){Winner=SM;Moves=9}
+if(d.a3.src==Player.src&&d.b3.src==Player.src&&d.c3.src==Player.src){Winner=SM;Moves=9}
+if(d.a1.src==Player.src&&d.b2.src==Player.src&&d.c3.src==Player.src){Winner=SM;Moves=9}
+if(d.a3.src==Player.src&&d.b2.src==Player.src&&d.c1.src==Player.src){Winner=SM;Moves=9}
+}}CPUturn()
+//-->
+</script>
+<br><font face=verdana size=1 color=#9096A4><a href="tictactoe.html" target="mainm" onmouseover="window.status=' >> Gravitation Tic Tac Toe <<'; return true;" onmouseout="window.status=''; return true;">Back</a> || <a href="main.html" target="_blank" onmouseover="window.status=' >> Main - Home <<'; return true;" onmouseout="window.status=''; return true;">X-Clear</a></center>
+</body>
+</html>

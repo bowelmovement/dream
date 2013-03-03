@@ -1,0 +1,169 @@
+<html>
+<head>
+<title>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NA NO DA!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kumagoroTRIBUTE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</title>
+<STYLE TYPE="text/css">
+a:link {text-decoration: none; font-weight: bold; color: #F4B688;}
+a:visited {text-decoration: none; font-weight: bold; color: #F4B688;}
+a:hover {text-decoration: line-through; color: #F4B688; cursor: help}
+a:active {text-decoration: none; color: #F4B688;}
+</style>
+ <script language="JavaScript">
+<!--
+<!-- Hide this script from old browsers --
+var imagenumber = 7 ;
+var randomnumber = Math.random() ;
+var rand1 = Math.round( (imagenumber-1) * randomnumber) + 1 ;
+images = new Array
+images[1] = "images/kulay1.jpg"
+images[2] = "images/kulay2.jpg"
+images[3] = "images/kulay3.jpg"
+images[4] = "images/kulay4.jpg"
+images[5] = "images/kulay5.jpg"
+images[6] = "images/kulay6.jpg"
+images[7] = "images/kulay7.jpg"
+var image = images[rand1]
+
+alt = new Array
+alt[1] = "Refresh for rotating pictures"
+alt[2] = "Refresh for rotating pictures"
+alt[3] = "Refresh for rotating pictures"
+alt[4] = "Refresh for rotating pictures"
+alt[5] = "Refresh for rotating pictures"
+alt[6] = "Refresh for rotating pictures"
+alt[7] = "Refresh for rotating pictures"
+var alto = alt[rand1]
+// -- End Hiding Here -->
+
+</script>
+</head>
+<body topmargin=0 leftmargin=0 background="images/kumabg.jpg"><table border="0" cellpadding="0" cellspacing="0" width="670" height="520">
+
+<tr>
+<td rowspan="1" colspan="1" width="136" height="69">
+	<img name="kuma0" src="images/kuma_1x1.gif" width="136" height="69" border="0"></td>
+<td rowspan="2" colspan="2" width="102" height="92">
+	<img name="kuma1" src="images/kuma_1x2.gif" width="102" height="92" border="0"></td>
+<td rowspan="2" colspan="2" width="102" height="92">
+	<img name="kuma2" src="images/kuma_1x3.gif" width="102" height="92" border="0"></td>
+<td rowspan="2" colspan="1" width="102" height="92">
+	<img name="kuma3" src="images/kuma_1x4.gif" width="102" height="92" border="0"></td>
+<td rowspan="2" colspan="3" width="102" height="92">
+	<img name="kuma4" src="images/kuma_1x5.gif" width="102" height="92" border="0"></td>
+<td rowspan="6" colspan="1" width="126" height="277">
+	<img name="kuma5" src="images/kuma_1x6.gif" width="126" height="277" border="0"></td>
+<td width="1" height="69">
+	<img name="blank" src="blank.gif" width="1" height="69" border="0"></td>
+</tr>
+
+<tr>
+<td rowspan="2" colspan="1" width="136" height="69">
+	<img name="kuma6" src="images/kuma_2x1.gif" width="136" height="69" border="0"></td>
+<td width="1" height="23">
+	<img name="blank" src="blank.gif" width="1" height="23" border="0"></td>
+</tr>
+
+<tr>
+<td rowspan="2" colspan="2" width="102" height="93">
+	<img name="kuma7" src="images/kuma_3x1.gif" width="102" height="93" border="0"></td>
+<td rowspan="2" colspan="2" width="102" height="93">
+	<img name="kuma8" src="images/kuma_3x2.gif" width="102" height="93" border="0"></td>
+<td rowspan="2" colspan="1" width="102" height="93">
+	<img name="kuma9" src="images/kuma_3x3.gif" width="102" height="93" border="0"></td>
+<td rowspan="2" colspan="3" width="102" height="93">
+	<img name="kuma10" src="images/kuma_3x4.gif" width="102" height="93" border="0"></td>
+<td width="1" height="46">
+	<img name="blank" src="blank.gif" width="1" height="46" border="0"></td>
+</tr>
+
+<tr>
+<td rowspan="2" colspan="1" width="136" height="70">
+	<img name="kuma11" src="images/kuma_4x1.gif" width="136" height="70" border="0"></td>
+<td width="1" height="47">
+	<img name="blank" src="blank.gif" width="1" height="47" border="0"></td>
+</tr>
+
+<tr>
+<td rowspan="2" colspan="2" width="102" height="92">
+	<img name="kuma12" src="images/kuma_5x1.gif" width="102" height="92" border="0"></td>
+<td rowspan="2" colspan="2" width="102" height="92">
+	<img name="kuma13" src="images/kuma_5x2.gif" width="102" height="92" border="0"></td>
+<td rowspan="2" colspan="1" width="102" height="92">
+	<img name="kuma14" src="images/kuma_5x3.gif" width="102" height="92" border="0"></td>
+<td rowspan="2" colspan="3" width="102" height="92">
+	<img name="kuma15" src="images/kuma_5x4.gif" width="102" height="92" border="0"></td>
+<td width="1" height="23">
+	<img name="blank" src="blank.gif" width="1" height="23" border="0"></td>
+</tr>
+
+<tr>
+<td rowspan="1" colspan="1" width="136" height="69">
+	<img name="kuma16" src="images/kuma_6x1.gif" width="136" height="69" border="0"></td>
+<td width="1" height="69">
+	<img name="blank" src="blank.gif" width="1" height="69" border="0"></td>
+</tr>
+
+<tr>
+<td rowspan="1" colspan="2" width="167" height="77">
+	<img name="kuma17" src="images/kuma_7x1.gif" width="167" height="77" border="0"></td>
+<td rowspan="1" colspan="2" width="168" height="77">
+	<img name="kuma18" src="images/kuma_7x2.gif" width="168" height="77" border="0"></td>
+<td rowspan="1" colspan="3" width="168" height="77">
+	<img name="kuma19" src="images/kuma_7x3.gif" width="168" height="77" border="0"></td>
+<td rowspan="1" colspan="3" width="167" height="77">
+	<img name="kuma20" src="images/kuma_7x4.gif" width="167" height="77" border="0"></td>
+<td width="1" height="77">
+	<img name="blank" src="blank.gif" width="1" height="77" border="0"></td>
+</tr>
+
+<tr>
+<td rowspan="1" colspan="2" width="167" height="77">
+	<img name="kuma21" src="images/kuma_8x1.gif" width="167" height="77" border="0"></td>
+<td rowspan="1" colspan="2" width="168" height="77">
+	<img name="kuma22" src="images/kuma_8x2.gif" width="168" height="77" border="0"></td>
+<td rowspan="1" colspan="3" width="168" height="77">
+	<img name="kuma23" src="images/kuma_8x3.gif" width="168" height="77" border="0"></td>
+<td rowspan="1" colspan="3" width="167" height="77">
+	<img name="kuma24" src="images/kuma_8x4.gif" width="167" height="77" border="0"></td>
+<td width="1" height="77">
+	<img name="blank" src="blank.gif" width="1" height="77" border="0"></td>
+</tr>
+
+<tr>
+<td rowspan="1" colspan="8" width="541" height="89"></td>
+<td rowspan="1" colspan="2" width="129" height="89">
+	<img name="kuma26" src="images/kuma_9x2.gif" width="129" height="89" border="0"></td>
+<td width="1" height="89">
+	<img name="blank" src="blank.gif" width="1" height="89" border="0"></td>
+</tr>
+
+<tr>
+<td width="136" height="1">
+	<img name="blank" src="blank.gif" width="136" height="1" border="0"></td>
+<td width="31" height="1">
+	<img name="blank" src="blank.gif" width="31" height="1" border="0"></td>
+<td width="71" height="1">
+	<img name="blank" src="blank.gif" width="71" height="1" border="0"></td>
+<td width="97" height="1">
+	<img name="blank" src="blank.gif" width="97" height="1" border="0"></td>
+<td width="5" height="1">
+	<img name="blank" src="blank.gif" width="5" height="1" border="0"></td>
+<td width="102" height="1">
+	<img name="blank" src="blank.gif" width="102" height="1" border="0"></td>
+<td width="61" height="1">
+	<img name="blank" src="blank.gif" width="61" height="1" border="0"></td>
+<td width="38" height="1">
+	<img name="blank" src="blank.gif" width="38" height="1" border="0"></td>
+<td width="3" height="1">
+	<img name="blank" src="blank.gif" width="3" height="1" border="0"></td>
+<td width="126" height="1">
+	<img name="blank" src="blank.gif" width="126" height="1" border="0"></td>
+</tr>
+</table>
+<div id="Layer1" style="position:absolute; width:79px; height:0px; z-index:2; left: 564px; top: 343px">
+<td width="79"><script><!-- Hide this script from old browsers --
+document.write('<img src="' + image + '" border="0" " alt="' + alto + '">')
+// -- End Hiding Here -->
+</script><noscript><img src="kulay1.jpg" height="156" width="79" alt="Hum...it seems that you either have Javascript disabled on your computer or your browser doesn't support Javascript at all. Therefore, you can't view this page ;_;"></noscript></td></div>
+<div id="Layer1" style="position:absolute; width:300px; height:0px; z-index:2; left: 230px; top: 343px">
+<img src="images/ku0.jpg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/ku1.jpg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/ku2.jpg">
+</div><div align="justify" id="Layer1" style="position:absolute; width:520px; height:0px; left: 10px; top: 450px; line-height:18px; z-index:1"><font size=1 face=verdana>This is a special tribute dedicated to <b>Kumagoro</b>, the adorable stuffed animal bunny that <b>Ryuichi</b> carries around with him. It's never seen without Ryuichi and Ryuichi's never seen without it. Kumagoro is adored by everyone, including the fans, because it's just so <b>cute</b> and it can be used to cheer people up. Kumagoro's spelling can be varied, from Kumagoru to Kumagorou and what not. Kumagoro was given to Shuichi by Ryuichi as a cheer-up present, but Ryuichi seems to have more than one Kumagoro. <b>o.o</b> The Kumagoro that Ryuichi carries around is his special one, the one that he uses to play around with and cheer people up. Ryuichi loves to make Kumagoro seem <b>lively</b> and joyful. He's often given Kumagoro a voice and Ryu-chan enjoys talking all about Kumagoro. As a stuffed animal, Kumagoro almost becomes alive when Ryuichi plays with him. He is <b>sweet</b> and very cute, and fun to play with. He can cheer people up when they're down or under stress, and help them remember that they're important in life. Kumagoro is like <b>Gravitation</b>'s logo, without it Gravi would certainly not be the same, and Ryuichi wouldn't be half as cute. XD<br><br>Why is there a tribute to Kumagoro? Kumagoro is often <b>overlooked</b> and not included as a character because he's a stuffed animal, therefore he's not often talked about. So here's a little tribute dedicated to Kumagoro, the <b>kawaii</b> and genki stuffed animal of Ryuichi that everyone adores. There are very rare Kumagoro plushies out there, so get on Ebay and grab them before they're gone! I haven't met a person who doesn't like Kumagoro, who can't adore this sweet little <b>pink</b> bunny?! Kumagoro is Ryuichi's <b>prized</b> possession, you can't blame him... ^_~<br><br><center><a href="/info" onmouseover="window.status=' >> Information Centre <<'; return true;" onmouseout="window.status=''; return true;">Back</a> || <a href="/index.php" onmouseover="window.status=' >> Home <<'; return true;" onmouseout="window.status=''; return true;">X-Clear</a></center><br><br>Gravitation was created by Maki Murakami. All edited graphics and content © by <a href="site/contact.php" target="_top">Trinity</a>, usage of any edited graphics and/or content on this site without permission from the owner or a copyright note is illegal and will be fined. DtD is part of <a href="http://ainoyume.net/" target="_blank">AinoyumeNET</a>.<br><br>

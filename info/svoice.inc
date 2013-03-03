@@ -1,0 +1,4 @@
+<div align="justify"><b>>> Fujisaki Suguru - Seiyuu</b><p>
+<img src="images/takimoto.jpg" align=left>Suguru's voice actor is Takimoto Fujiko. She was born on October 6 at Osaka. Some of her other anime seiyuu roles besides Suguru are Nakazawa Sanae from Captain Tsubasa, Nike from Mahoujin Guru Guru, and Otori Hayate from Raideen. Her most popular role may be Suguru Misato from Mahoromatic.
+</p>
+<p><img src="images/takimoto0.jpg" align=right>In my opinion, Fujiko is as cute as Suguru. XD I noticed that Suguru's seiyuu was female sounding, and at first I thought Suguru was a girl. :P She even looks somewhat like Suguru in the first picture shown, with short hair. I love it when Suguru yells at Shuichi. He sounds hilarious and adorable. 

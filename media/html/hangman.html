@@ -1,0 +1,138 @@
+<head><title>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NA NO DA!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;entertainmentCENTRE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</title>
+<STYLE TYPE="text/css">
+a:link {text-decoration: none; font-weight: bold; color: white;}
+a:visited {text-decoration: none; font-weight: bold; color:  white;}
+a:hover {text-decoration: none; color: #BE7354; cursor: help}
+a:active {text-decoration: none; color: white;}
+<!--
+BODY{font-family:verdana;}
+body{scrollbar-face-color: #BE7354; 
+			scrollbar-highlight-color: #BE7354; 
+			scrollbar-3dlight-color: #BE7354; 
+			scrollbar-shadow-color: #BE7354; 
+			scrollbar-darkshadow-color: #BE7354;
+			scrollbar-track-color: #BE7354; 
+			scrollbar-arrow-color: #BE7354}
+-->
+</style>
+<head>
+<body bgcolor=#BE7354>
+<center><font size=3 face=verdana><b>Gravitation Hangman!</b></font><br><br>
+<font size=1 face=verdana>
+<script>
+//alert("Guess the letters, until you can Solve the puzzle.")
+//Writen by the_webmaster007@angelfire.com
+//Version 1.4
+
+//Chang tries and/or add your own words here
+MyWrds=new Array()
+MyWrds[0]="Shuichi"
+MyWrds[1]="Kumagoro"
+MyWrds[2]="Gravitation"
+MyWrds[3]="Shounen ai"
+MyWrds[4]="Pika no Ryuichi"
+MyWrds[5]="Hiroshi"
+MyWrds[6]="Synthesizer"
+MyWrds[7]="Nittle Grasper"
+MyWrds[8]="Bad Luck"
+MyWrds[9]="Kumagoro Beam"
+MyWrds[10]="Maki Murakami"
+
+Tries=7 //Number of chances
+S="" /*image directory*/
+//End Selectables
+
+d=document //Alias
+Black="whitebg2.gif"
+Blank="whitebg.jpg"
+Start=0
+End=0
+Print=""
+Print2=""
+inword=false
+i2=0
+Start=document.images.length
+function Pic(){this.src="";this.val=""}
+new Pic()
+which=Math.floor(Math.random()*MyWrds.length)
+MyWrds[which]=MyWrds[which].toLowerCase()
+lngth=MyWrds[which].length
+for(i=d.images.length;i<(lngth+d.images.length);i++){
+Print+='<img src="'+Black+'"height="50"width=50"> '
+if(MyWrds[which].charAt(i)==" "){Print+="<br>"}
+}for(i=0;i<Tries;i++){Print2+='<img src="'+S+'Head.gif"height="42"width="42"> '}
+</script>
+
+<script>d.write(Print)</script>
+<form name="Controls"><table border="1"bgcolor="#BE7354" width="500" cellspacing="0" cellpadding="0" style="font-size: 11px; Border: solid 1 white"><tr><td>
+<b>Guess:</B> <input type="text"name="Guess"size="3"onChange="document.Controls.Guess1.focus()"> 
+<input type="button"value="Guess"name="Guess1"onClick="Guesser()">
+</td><td><center>or</center></td><td>
+<b>Solve:</B> <input type="text"name="Solve"onChange="document.Controls.Solve1.focus()"> 
+<input type="button"name="Solve1"value="Enter"onClick="Solver()">
+</td><tr><td><b>Tries Remaining:</B></td><td><input type="text"name="Tries"size="2"></td><td>
+<input type="text"name="Used"size="32"></td></tr></table></form>
+
+<script>
+document.Controls.reset()
+d1=document.Controls //Alias
+d1.Tries.value=Tries
+End=Start+lngth
+Letters=new Array()
+for(i=Start;i<=End;i++){
+Letters[i]=new Pic()
+Letters[i].val=MyWrds[which].charAt(i2)
+x=Letters[i].val
+if(x==" "){Letters[i].src=Blank;d.images[i].src=Blank}
+if(x=="a"){Letters[i].src=S+"a.gif"}
+if(x=="b"){Letters[i].src=S+"b.gif"}
+if(x=="c"){Letters[i].src=S+"c.gif"}
+if(x=="d"){Letters[i].src=S+"d.gif"}
+if(x=="e"){Letters[i].src=S+"e.gif"}
+if(x=="f"){Letters[i].src=S+"f.gif"}
+if(x=="g"){Letters[i].src=S+"g.gif"}
+if(x=="h"){Letters[i].src=S+"h.gif"}
+if(x=="i"){Letters[i].src=S+"i.gif"}
+if(x=="j"){Letters[i].src=S+"j.gif"}
+if(x=="k"){Letters[i].src=S+"k.gif"}
+if(x=="l"){Letters[i].src=S+"l.gif"}
+if(x=="m"){Letters[i].src=S+"m.gif"}
+if(x=="n"){Letters[i].src=S+"n.gif"}
+if(x=="o"){Letters[i].src=S+"o.gif"}
+if(x=="p"){Letters[i].src=S+"p.gif"}
+if(x=="q"){Letters[i].src=S+"q.gif"}
+if(x=="r"){Letters[i].src=S+"r.gif"}
+if(x=="s"){Letters[i].src=S+"s.gif"}
+if(x=="t"){Letters[i].src=S+"t.gif"}
+if(x=="u"){Letters[i].src=S+"u.gif"}
+if(x=="v"){Letters[i].src=S+"v.gif"}
+if(x=="w"){Letters[i].src=S+"w.gif"}
+if(x=="x"){Letters[i].src=S+"x.gif"}
+if(x=="y"){Letters[i].src=S+"y.gif"}
+if(x=="z"){Letters[i].src=S+"z.gif"}
+i2++}
+function Solver(){
+d1.Solve.value=d1.Solve.value.toLowerCase()
+d1.Tries.value=Tries
+if(d1.Solve.value==MyWrds[which]){alert("Alright! That's it!");alert("Game Over! Refresh the page for a new puzzle.");Tries=0
+for(i=Start;i<End;i++){d.images[i].src=Letters[i].src}
+}else{alert("Sorry, that's not the puzzle.^^")}}
+function Guesser(){
+inword=false
+d1.Tries.value=Tries
+d1.Guess.value=d1.Guess.value.toLowerCase()
+if(d1.Guess.value.length==1){
+for(i=Start;i<=End;i++){
+if(d1.Guess.value==Letters[i].val){d.images[i].src=Letters[i].src;inword=true
+alert("Got it!")}}
+if(inword==false){alert("That letter's not in the puzzle!");d1.Used.value+=d1.Guess.value+",";inword=false;Tries--;Try()}}
+else{alert("Only 1 letter may be guessed at a time.")}d1.Tries.value=Tries
+if(Tries<=0){alert("Game Over! The correct answer was '"+MyWrds[which]+"'. Refresh the page for a new puzzle.");return false}}
+</script>
+<script>d.write(Print2)</script>
+<script>
+End2=document.images.length
+function Try(){d.images[End2-Tries-1].src=S+"XHead.gif"}
+</script><br><br><br><br><br>
+<center><a href="multi.html" onmouseover="window.status=' >> Entertainment Centre <<'; return true;" onmouseout="window.status=''; return true;">Back</a> || <a href="main.html" onmouseover="window.status=' >> Main - Home <<'; return true;" onmouseout="window.status=''; return true;">X-Clear</a></center><br><br><br><br>Gravitation was created by Maki Murakami. All edited graphics and content © by <a href="contact.html" target="_top">Trinity</a>, usage of any edited graphics and/or content on this site without permission from the owner or a copyright note is illegal and will be fined. DtD is part of <a href="http://ainoyume.net/" target="_blank">Ai no Yume[NET]</a>.<br><br>
+
