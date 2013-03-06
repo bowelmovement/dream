@@ -1,7 +1,0 @@
-<b>Contact</b><br><br>
-There are various ways in which you can contact me about anything regarding this site or Gravitation. All flames, comments, and/or questions are welcome, but if you want to flame, flame at your own risk.^_~<br><br><b>AIM screename:</b> Ekatalina<br>Probably the fastest way to contact me is to IM me directly on AOL. I'm pretty much on every day in the afternoons, otherwise weekends during night time. School can change all that with a drop of a hat though. xD Be aware though, the screename posted here is probably not up-to-date, mainly because I don't want porn ads <.<, so I keep this IM for semi-use only.<br><br><b>E-mail:</b> <SCRIPT type="text/javascript" language="javascript">
-a="gravitation";
-b="gmail.com";
-document.write('<a href=\"mailto:'+a+'@'+b+'\">');
-document.write('click for it'+'<\/a>');
-</SCRIPT><br>My primary e-mail, which I check fairly often. If you have a question, I'd prefer it if you would direct it here instead of any of my other contacts. Otherwise, don't e-mail me with one-liners, please. >< <b>If you're submitting fanworks, please use this e-mail.</b><br><br><b>Guestbook:</b> <a href="http://dtd.ainoyume.net/cgi-bin/guestbook.cgi" target=new>DtD's GBook</a><br>This is the last resort. If for some ridiculous reason, you cannot reach me by any of my above contacts, leave a note in my guestbook. Under no circumstances may you sign the gbook for your site advertising. It's a pet peeve of mine and I will delete the entry immediately.<br><br>

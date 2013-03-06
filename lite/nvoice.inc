@@ -1,5 +1,0 @@
-<b>>> Ukai Noriko - Seiyuu</b><br><br>
-<div align="justify">
-<img src="http://dream.shounen-ai.org/info/images/ikezawa.jpg" align="left" border=1>Noriko's voice actress is Ikezawa Haruna. She was born in Athens, Greece on December 15th, 1975. She is currently working for 81 Produce, and some of her other anime roles include Transmutate in Beast Wars, Hanako-chan in Haunted Junction Episode 3, Yurika in Alice SOS, and various roles in Wedding Peach. She hasn't done many popular roles, and her roles in anime are relatively small. However, she does have some CDs out, and she has a great voice and face. :D <br><br>
-<img src="http://dream.shounen-ai.org/info/images/ikezawa0.jpg" align="right" border=1>Noriko's voice is very cute and hyper. Even though Noriko isn't portrayed very well in the series, and there's little we know about her, Ikezawa Haruna does a very nice job of portraying Noriko as a genki, stylish and talented member of Nittle Grasper. I enjoyed listening to Noriko, even though she had an extremely minor role in the series. Ikezawa Haruna makes a great typical anime shoujo voice, I hope to hear her more often in the future. ^-^<br>
-<br>

@@ -1,4 +1,0 @@
-<b>>> Seguchi Tohma - Friends</b><p>
-<div align="justify"><img src="http://dream.shounen-ai.org/info/images/tohmaryui.jpg" align=left border=1>Tohma and Ryuichi are good friends and Nittle Grasper members. They've been together for quite a while and know each other well. Ryuichi knows when Tohma's stressed, and would take the effort to comfort him using his Kumagoro.^^ Tohma seems to be relieved of stress with a little Kumagoro power, Ryuichi has the tendency to make him realize his importance in the world.^^</p>
-<p><img src="http://dream.shounen-ai.org/info/images/tohmanoriko.jpg" align=left border=1>Noriko is also a fellow Nittle Grasper member, and also Tohma's close friend. She can easily tell if something's on Tohma's mind, and she returned to Tohma and Ryuichi's side when Tohma called her for the regrouping of Nittle Grasper. Noriko and Tohma both handle the keyboards, so they have a lot in common.^_^<br>
-<br><br>

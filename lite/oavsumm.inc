@@ -1,4 +1,0 @@
-<b>OAV Episode Summaries</b><br><br>
-There are only 2 Gravitation OAV (Original Animation Videos) episodes. The summaries are all written by me and should not be taken without permission. Enjoy!<br><br>
-<a href="oav1.php">Episode 1</a>- <br>Characters are introduced, Shuichi tries unsuccessfully to sort out problems with Yuki and the inability to compose lyrics, Nittle Grasper is scheduled to perform at the Tokyo Bay Music Festival with a song that Yuki wrote lyrics to...<br><br>
-<a href="oav2.php">Episode 2</a>- <br>Shuichi coops himself up in his parents' home and tries to reason everything out while K, Sakano, Suguru, and Hiro are frantic about the upcoming performance due to Shuichi's absence. Things will work out...right?<br><br>
