@@ -1,10 +1,10 @@
 <b>:: CLIQUES AND WEBRINGS</b><br><br>
 <a href="http://www.vitaminless.com/love" target="_win">adoration </A> * Sakuma Ryuichi
 <br>
-<a href="http://www.ringsurf.com/netring?ring=dreaming;id=1;action=prev">« </a> <a href="http://www.ringsurf.com/netring?ring=dreaming;action=list">#</a> <a href="http://www.shounen-ai.org/dream" target=new>Dreaming Gravitation</a> <a href="http://www.ringsurf.com/netring?ring=dreaming;action=rand">?</a> <a href="http://www.ringsurf.com/netring?ring=dreaming;id=1;action=next">»</a><br>
+<a href="http://www.ringsurf.com/netring?ring=dreaming;id=1;action=prev">« </a> <a href="http://www.ringsurf.com/netring?ring=dreaming;action=list">#</a> <a href="http://www.ainoyume.net/dream" target=new>Dreaming Gravitation</a> <a href="http://www.ringsurf.com/netring?ring=dreaming;action=rand">?</a> <a href="http://www.ringsurf.com/netring?ring=dreaming;id=1;action=next">»</a><br>
  <a href="http://www.ringsurf.com/netring?ring=saiorg;id=3;action=prev"><</a>
  <a href="http://www.ringsurf.com/netring?ring=saiorg;action=rand">?</a>
-<a href="http://shounen-ai.org/ring">Shounen-ai orG</a>
+<a href="http://ainoyume.net/ring">Shounen-ai orG</a>
  <a href="http://www.ringsurf.com/netring?ring=saiorg;action=list">#</a>
  <a href="http://www.ringsurf.com/netring?ring=saiorg;id=3;action=next">></a>
 <br><br>

@@ -2,8 +2,8 @@ RewriteEngine on
 RewriteCond %{HTTP_REFERER} !^$
 RewriteCond %{HTTP_REFERER} !^http://(www\.)?ainoyume.net/dtd/.*$ [NC]
 RewriteCond %{HTTP_REFERER} !^http://dtd.ainoyume.net/.*$ [NC]
-RewriteCond %{HTTP_REFERER} !^http://(www\.)?shounen-ai.org/dream/.*$ [NC]
-RewriteCond %{HTTP_REFERER} !^http://dream.shounen-ai.org/.*$ [NC]
+RewriteCond %{HTTP_REFERER} !^http://(www\.)?ainoyume.net/dream/.*$ [NC]
+RewriteCond %{HTTP_REFERER} !^http://dream.ainoyume.net/.*$ [NC]
 RewriteCond %{HTTP_REFERER} !^http://(www\.)?cloverpetals.com/addiction/.*$ [NC]
 RewriteCond %{HTTP_REFERER} !^http://(www\.)?ainoyume.net/dream/.*$ [NC]
 RewriteCond %{HTTP_REFERER} !^http://dream.ainoyume.net/.*$ [NC]
